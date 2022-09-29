@@ -1,0 +1,9 @@
+title: Sa Git Scenario 11
+description: Understanding python and go scenaarios for testing the description of lp python
+time: 25 minutess
+steps:
+  - step1.md
+isNew: false
+isPremium: false
+isAvailable: false
+level: experts
