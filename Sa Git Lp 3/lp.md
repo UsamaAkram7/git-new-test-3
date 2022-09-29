@@ -6,4 +6,9 @@ isPremium: true
 isNew: true
 isAvailable: true
 scenarioCount: 0
-scenarios: []
+scenarios: 
+  - Sa Git Scenario 1
+  - Sa Git Scenario 2
+  - Sa Git Scenario 3
+  - Sa Git Scenario 4
+  - Sa Git Scenario 5
