@@ -5,7 +5,7 @@ description: git learning path for testing purpose to check the description is w
 isPremium: true
 isNew: true
 isAvailable: true
-scenarioCount: 5
+scenarioCount: 4
 scenarios: 
   - Sa Git Scenario 1
   - Sa Git Scenario 2
