@@ -6,5 +6,4 @@ isPremium: true
 isNew: true
 isAvailable: true
 scenarioCount: 0
-scenarios: 
-  - Git Scenario 6
+scenarios: []
